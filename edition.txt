@@ -4,6 +4,7 @@ third edition
 issue resolved
 <<<<<<< HEAD
 hotfix my solution
+New function added
 =======
 <<<<<<< HEAD
 hotfix my solution
